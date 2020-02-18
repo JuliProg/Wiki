@@ -1,5 +1,6 @@
 # Wiki
-Wiki for JuliProg
+h1 Wiki for JuliProg
 
-Sub Parts
-  ID Register [](https://github.com/JuliProg/ID-Register)
+h2 Sub Parts.
+
+  h3 ID Register [](https://github.com/JuliProg/ID-Register)
