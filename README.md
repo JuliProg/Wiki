@@ -7,7 +7,7 @@
     <a href="https://github.com/JuliProg/ID-Register">ID Register </a>
   </li>
   <li>
-    Status Register
+    <a href="https://github.com/JuliProg/Status-Register">Status Register  </a>
   </li>
 </ul>
 <h2>Command Set</h2>
