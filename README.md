@@ -16,6 +16,6 @@
       <a href="https://github.com/JuliProg/Read-ID-90h-">Read ID (90h)</a>
     </li>
     <li>
-      Read Status (70h)
+      <a href="https://github.com/JuliProg/Read-Status-70h-"> Read Status (70h)</a>
     </li>
   </ul>
