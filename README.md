@@ -4,7 +4,7 @@
 <h2>Chip</h2>
 <ul>
   <li>
-    <a href="https://github.com/JuliProg/Wiki/wiki">
+    <a href="https://github.com/JuliProg/Wiki/wiki/Chip-conception">
     Сonception </a>
   </li>
 </ul>
