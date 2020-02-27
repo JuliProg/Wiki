@@ -13,6 +13,18 @@
 <h2>Command Set</h2>
   <ul>
     <li>
+      Read (00h ... 30h)
+    </li>
+    <li>
+      Block Erase (60h ... D0h)
+    </li>
+    <li>
+      Page Program (80h ... 10h)
+    </li>
+    <li>
+      Reset (FFh)
+    </li>
+    <li>
       <a href="https://github.com/JuliProg/Read-ID-90h-">Read ID (90h)</a>
     </li>
     <li>
