@@ -1,6 +1,14 @@
 
 <h1> Wiki for JuliProg </h1>
 
+<h2>Chip</h2>
+<ul>
+  <li>
+    <a href="https://github.com/JuliProg/Wiki/wiki">
+    Сonception </a>
+  </li>
+</ul>
+
 <h2> Sub Parts </h2>
 <ul>
   <li>
