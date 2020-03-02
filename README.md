@@ -7,6 +7,12 @@
     <a href="https://github.com/JuliProg/Wiki/wiki/Chip-conception">
     Сonception </a>
   </li>
+  <li>
+    How create new chip
+  </li>
+  <li>
+    How to publish a new chip
+  </li>
 </ul>
 
 <h2> Sub Parts </h2>
