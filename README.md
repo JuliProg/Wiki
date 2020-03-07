@@ -23,6 +23,12 @@
   <li>
     <a href="https://github.com/JuliProg/Status-Register">Status Register  </a>
   </li>
+  <li>
+    Parameter Page
+  </li>
+   <li>
+    OTP
+  </li>
 </ul>
 <h2>Command Set</h2>
   <ul>
@@ -43,5 +49,8 @@
     </li>
     <li>
       <a href="https://github.com/JuliProg/Read-Status-70h-"> Read Status (70h)</a>
+    </li>
+    <li>
+    Read Parameter Page (ECh)
     </li>
   </ul>
