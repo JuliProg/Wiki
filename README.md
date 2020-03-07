@@ -3,7 +3,8 @@
 <h2>Introduction</h2>
 <ul>
   <li>
-    About
+    <a href="https://github.com/JuliProg/Wiki/wiki/About-JuliProg">
+    About</a>
   </li>
   <li>
     Hardware
