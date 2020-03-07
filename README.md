@@ -43,16 +43,20 @@
 <h2>Command Set</h2>
   <ul>
     <li>
-      Read (00h ... 30h)
+    <a href="https://github.com/JuliProg/Read-00h-30h-">
+      Read (00h ... 30h)</a>
     </li>
     <li>
-      Block Erase (60h ... D0h)
+    <a href="https://github.com/JuliProg/Block-Erase-60h-D0h">
+      Block Erase (60h ... D0h)</a>
     </li>
     <li>
-      Page Program (80h ... 10h)
+    <a href="https://github.com/JuliProg/Page-Program-80h-10h">
+      Page Program (80h ... 10h)</a>
     </li>
     <li>
-      Reset (FFh)
+      <a href="https://github.com/JuliProg/Reset_FFh">
+      Reset (FFh)</a>
     </li>
     <li>
       <a href="https://github.com/JuliProg/Read-ID-90h-">Read ID (90h)</a>
