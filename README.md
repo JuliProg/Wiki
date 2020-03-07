@@ -1,5 +1,14 @@
 
-<h1> Wiki for JuliProg </h1>
+<h1> JuliProg - free NAND Flash chip programmer </h1>
+<h2>Introduction</h2>
+<ul>
+  <li>
+    About
+  </li>
+  <li>
+    Hardware
+  </li>
+</ul>
 
 <h2>Chip</h2>
 <ul>
