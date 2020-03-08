@@ -7,7 +7,8 @@
     About</a>
   </li>
   <li>
-    Hardware
+    <a href="https://github.com/JuliProg/Wiki/wiki/Hardware">
+    Hardware</a>
   </li>
 </ul>
 
