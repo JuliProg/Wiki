@@ -1,7 +1,7 @@
 
 # JuliProg - free NAND Flash chip programmer
 
-[For collaborators](https://github.com/users/JuliProg/projects/1)
+[Task Board](https://github.com/users/JuliProg/projects/1)
 
 ## Introduction
 
