@@ -22,6 +22,7 @@
 
 - [ID Register](https://github.com/JuliProg/ID-Register)
 - [Status Register](https://github.com/JuliProg/Status-Register)
+  - [Status Register Interpretation](https://github.com/JuliProg/Wiki/wiki/Status-Register-Interpretation)
 - Parameter Page
 - OTP
 
