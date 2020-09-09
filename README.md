@@ -33,8 +33,6 @@
 - [Read (00h)](https://github.com/JuliProg/Wiki/wiki/Command-Sets#read_00hdll)
 - [Block Erase (60h ... D0h)](https://github.com/JuliProg/Wiki/wiki/Command-Sets#erase_60h_d0hdll)
 - [Page Program (80h ... 10h)](https://github.com/JuliProg/Wiki/wiki/Command-Sets#pageprogram_80h_10hdll)
-- [Reset (FFh)](https://github.com/JuliProg/Reset_FFh)
-- [Read ID (90h)](https://github.com/JuliProg/Read-ID-90h-)
-- [Read Status (70h)](https://github.com/JuliProg/Read-Status-70h-)
+- [Reset (FFh)](https://github.com/JuliProg/Wiki/wiki/Command-Sets#reset_ffhdll)
 - Read Parameter Page (ECh)
   
