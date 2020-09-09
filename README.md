@@ -29,7 +29,7 @@
 
 ## Command Set
 
-- [Read (00h ... 30h)](https://github.com/JuliProg/Wiki/wiki/_new#read_00h_30hdll)
+- [Read (00h ... 30h)](https://github.com/JuliProg/Wiki/wiki/Command-Sets#read_00h_30hdll)
 - [Block Erase (60h ... D0h)](https://github.com/JuliProg/Block-Erase-60h-D0h)
 - [Page Program (80h ... 10h)](https://github.com/JuliProg/Page-Program-80h-10h)
 - [Reset (FFh)](https://github.com/JuliProg/Reset_FFh)
