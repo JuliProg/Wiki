@@ -20,7 +20,7 @@
 
 ## Sub Parts
 
-- [ID Register](https://github.com/JuliProg/ID-Register)
+- [ID Register](https://github.com/JuliProg/Wiki/wiki/ID-Register)
 - [Status Register](https://github.com/JuliProg/Wiki/wiki/StatusRegister)
   - [Status Register operations](https://github.com/JuliProg/Wiki/wiki/Status-Register-operations)
   - [Status Register Interpretation](https://github.com/JuliProg/Wiki/wiki/Status-Register-Interpretation)
