@@ -21,6 +21,8 @@
 ## Sub Parts
 
 - [ID Register](https://github.com/JuliProg/Wiki/wiki/ID-Register)
+  - [ID Register operations](https://github.com/JuliProg/Wiki/wiki/ID-Register-operations)
+  - [ID Register Interpretation](https://github.com/JuliProg/Wiki/wiki/ID-Register-Interpretation)
 - [Status Register](https://github.com/JuliProg/Wiki/wiki/StatusRegister)
   - [Status Register operations](https://github.com/JuliProg/Wiki/wiki/Status-Register-operations)
   - [Status Register Interpretation](https://github.com/JuliProg/Wiki/wiki/Status-Register-Interpretation)
