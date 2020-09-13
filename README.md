@@ -16,7 +16,7 @@ For contributors [Task Board](https://github.com/users/JuliProg/projects/1)
 
 - [Сonception](https://github.com/JuliProg/Wiki/wiki/Chip-conception)
 - How create new chip
-- How to publish a new chip
+- How edit chip parameters
 
 ## Sub Parts
 
