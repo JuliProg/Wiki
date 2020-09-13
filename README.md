@@ -1,7 +1,7 @@
 
 # JuliProg - NAND-Flash chip programmer
 
-[Task Board](https://github.com/users/JuliProg/projects/1)
+For contributors [Task Board](https://github.com/users/JuliProg/projects/1)
 
 ## Introduction
 
