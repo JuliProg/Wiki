@@ -28,7 +28,7 @@ For contributors [Task Board](https://github.com/users/JuliProg/projects/1)
   - [Status Register Interpretation](https://github.com/JuliProg/Wiki/wiki/Status-Register-Interpretation)
 - Parameter Page
 - [OTP memory area](https://github.com/JuliProg/Wiki/wiki/OTP-memory-area)
-  - [OTP memory area operations](https://github.com/JuliProg/Wiki/wiki/Activate-OTP-Mode)
+  - [OTP memory area operations](https://github.com/JuliProg/Wiki/wiki/OTP-memory-area-operations)
 
 ## Command Set
 
