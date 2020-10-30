@@ -29,6 +29,8 @@ For contributors [Task Board](https://github.com/users/JuliProg/projects/1)
 - Parameter Page
 - [OTP memory area](https://github.com/JuliProg/Wiki/wiki/OTP-memory-area)
   - [OTP memory area operations](https://github.com/JuliProg/Wiki/wiki/OTP-memory-area-operations)
+- [Unique Id Register](https://github.com/JuliProg/Wiki/wiki/UNIQUE-ID-Register)
+  - [Unique ID Register operations](https://github.com/JuliProg/Wiki/wiki/UNIQUE-ID-Register-operations)
 
 ## Command Set
 
