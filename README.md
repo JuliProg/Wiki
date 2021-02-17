@@ -17,6 +17,7 @@ For contributors [Task Board](https://github.com/users/JuliProg/projects/1)
 - [Сonception](https://github.com/JuliProg/Wiki/wiki/Chip-conception)
 - [How create new chip](https://github.com/JuliProg/Wiki/wiki/How-create-new-chip)
 - [How edit chip parameters](https://github.com/JuliProg/Wiki/wiki/How-edit-chip-parameters)
+  - [Initiate Invalid Block](https://github.com/JuliProg/Wiki/wiki/Initiate-Invalid-Block)
 
 ## Sub Parts
 
