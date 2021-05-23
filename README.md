@@ -18,6 +18,7 @@ For contributors [Task Board](https://github.com/users/JuliProg/projects/1)
 - [How create new chip](https://github.com/JuliProg/Wiki/wiki/How-create-new-chip)
 - [How edit chip parameters](https://github.com/JuliProg/Wiki/wiki/How-edit-chip-parameters)
   - [Initiate Invalid Block](https://github.com/JuliProg/Wiki/wiki/Initiate-Invalid-Block)
+  - [Chip programming with a table of bad blocks](https://github.com/JuliProg/Wiki/wiki/Chip-programming-taking-into-account-the-table-of-bad-blocks#custom-remapper)
 
 ## Sub Parts
 
